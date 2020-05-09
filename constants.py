@@ -1,7 +1,7 @@
 import os
 
 #Directory path
-DIR_PATH = "C:/Users/chinm/Documents/Courses/Sem4/CV/Project/3/ckaidab_proj03/"
+DIR_PATH = "Project/3/"
 
 #Directories inside the directory path
 IMAGES_DIR = "data/originalPics/"
